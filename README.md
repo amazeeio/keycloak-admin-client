@@ -9,6 +9,8 @@
 
 [![NPM](https://nodei.co/npm/keycloak-admin-client.png)](https://npmjs.org/package/keycloak-admin-client)
 
+This fork includes the [insecure dependencies PR](https://github.com/keycloak/keycloak-admin-client/pull/86) in the [`master` branch](https://github.com/amazeeio/keycloak-admin-client/tree/master) and the [group creation PR](https://github.com/keycloak/keycloak-admin-client/pull/65), [group joining PR](https://github.com/keycloak/keycloak-admin-client/pull/66) in the [`groups` branch](https://github.com/amazeeio/keycloak-admin-client/tree/groups).
+
 An _Extremely Experimental_ client for connecting to the Keycloak Admin REST API - http://www.keycloak.org/docs-api/3.2/rest-api/index.html
 
 |                 | Project Info  |
